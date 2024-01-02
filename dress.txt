@@ -1,0 +1,6 @@
+D001          Saree                Silk                          5600
+D002          Frock                 net                          4500
+D003          Shirt              khadar                          3400
+D004         Lehnga                silk                          6700
+D005          Skirt              Jorjat                          6500
+D006         Peplum                 Net                          4300
